@@ -7,4 +7,6 @@ class Shoe
   end
   
   def cobble
+    puts "You have a new shoe!"
+  end
 end
